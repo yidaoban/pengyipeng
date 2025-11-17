@@ -69,9 +69,9 @@
 
 <div align="center">
 
-**扫码添加微信咨询购买**
+**扫码添加QQ好友咨询购买**
 
-<img src="Images/qrcode.jpg" width="200" alt="微信二维码"/>
+<img src="Images/qrcode2.jpg" width="200" alt="微信二维码"/>
 
 **微信咨询后付款购买**
 
@@ -79,7 +79,7 @@
 
 ### 🔒 购买流程
 
-1. 扫描上方二维码添加微信(wxid_sllf5dpkpadi22)
+1. 扫描上方二维码添加QQ:35463217
 2. 说明购买意向，确认技术能力
 3. 微信转账支付 ¥800
 4. 获取源码下载链接
